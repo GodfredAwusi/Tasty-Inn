@@ -1,0 +1,90 @@
+/* Flex box */
+.flex-container {
+  flex-direction: column;
+}
+
+.flex-container2 {
+  flex-direction: column;
+
+}
+
+.flex-item {
+  margin-bottom: 1.5rem;
+}
+
+/* Showcase */
+#showcase {
+  padding-bottom: 2rem;
+}
+
+#showcase h1 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  padding-top: 18rem;
+}
+#showcase h2 {
+  font-size: 2.5rem;
+  line-height: 1rem;
+  padding-bottom: 3rem;
+}
+
+/* Navbar */
+#navbar ul li a {
+  padding: 5px;
+}
+
+/* Features */
+#features h2 {
+  padding: 2rem;
+}
+
+/* Section */
+.section-768-header {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+#app_mockup h2 {
+  line-height: 2.5rem;
+}
+
+.newsletter-form h3 {
+  font-size: 3rem;
+  padding-top: 2rem;
+}
+
+.form-group {
+  padding-top: 2rem;
+}
+
+.newsletter input {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+
+  /* width: 80%; */
+}
+
+.newsletter input[type='email'] {
+  width: 80%;
+}
+.newsletter input[type='submit'] {
+  width: 80%;
+}
+
+/* Menu page showcase */
+#menu-page-showcase h1 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  padding-top: 18rem;
+}
+
+.about {
+  padding-top: 3rem;
+}
+.about p {
+  text-align: justify;
+}
+.about-img {
+  display: none;
+}

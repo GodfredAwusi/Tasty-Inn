@@ -1,0 +1,48 @@
+#showcase p {
+  display: none;
+}
+
+.feature h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.menu_showcase h3 {
+  font-size: 2rem;
+  line-height: 2rem;
+  padding-top: 5rem;
+}
+
+.status h3 {
+  font-size: 2rem;
+  line-height: 2rem;
+  padding-top: 5rem;
+}
+
+.monthly_recipes h2 {
+  line-height: 2rem;
+}
+
+
+#menu-page-showcase p {
+  display: none;
+}
+
+#weekend-offer h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+  padding: 5px;
+  margin-top: 2rem;
+}
+#weekend-offer h2 {
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+.section-header {
+  padding: 1rem;
+}
+.section-second-header {
+  padding: 1rem;
+}

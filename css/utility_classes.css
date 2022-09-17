@@ -1,0 +1,152 @@
+/* Container */
+.container {
+  margin: auto;
+  max-width: 80%;
+}
+
+/* Images */
+img {
+  width: 100%;
+}
+
+.img-icon {
+  width: 50px;
+  border-radius: 100%;
+}
+/* Clear */
+.clr {
+  clear: both;
+}
+
+/* Link */
+a {
+  text-decoration: none;
+}
+
+/* List */
+ul {
+  list-style: none;
+}
+
+/* showcase style */
+.showcase-style h1 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  font-size: 5rem;
+  line-height: 4.5rem;
+  padding-top: 10rem;
+}
+.showcase-style h2 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  font-size: 5rem;
+  line-height: 4.5rem;
+  padding-bottom: 1rem;
+}
+.showcase-style p {
+  text-align: center;
+}
+
+/* Header */
+.hpad {
+  padding: 1.5rem;
+}
+
+.section-header {
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 4rem;
+  color: #000;
+  padding: 3rem;
+  margin-top: 3rem;
+  border-top: 5px dotted #ffb400;
+}
+
+.section-second-header {
+  font-size: 3rem;
+  color: #fff;
+  line-height: 3rem;
+  padding: 2rem;
+  padding-top: 10rem;
+  text-shadow: 2px 2px #333;
+}
+
+/* Lead Text */
+.lead-txt {
+  color: #f4f4f4;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+.dark-lead-txt {
+  color: #000;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Color */
+.primary-color {
+  color: #ffb400;
+}
+.secondary-color {
+  color: #dfdada;
+}
+/* Flex box */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex-container2 {
+  display: flex;
+  flex: 1;
+  
+}
+
+/* Button */
+.btn {
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffb400;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #e5a200;
+  color: #fff;
+}
+
+/* Order */
+.order {
+  text-align: center;
+}
+
+/* Current */
+.current {
+  text-decoration: underline;
+  text-decoration-color: #ffb400;
+  text-decoration-thickness: 5px;
+}
+
+
+/* Background */
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+
+.bg-light {
+  background: #f4f4f4;
+  color: #000;
+}
+
+.bg-primary {
+  background: #ffb400;
+  color: #000;
+}
