@@ -14,7 +14,7 @@ This is a website for a restaurant where customers can make orders of all kind a
 - Gallery
 - About page
 
----
+
 
 ## First stage (September 2022)
 
